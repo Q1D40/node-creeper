@@ -1,0 +1,12 @@
+{
+  "name": "creeper",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "cheerio": "0.17.0",
+    "line-reader": "0.2.3",
+    "mongoose": "3.8.12",
+    "bufferhelper": "0.2.0",
+    "eventproxy": "0.3.1"
+  }
+}
